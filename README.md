@@ -169,7 +169,7 @@ cd employee-attendance-system
 
 ### Step 2: Backend Setup
 
-#### 2.1 Install Dependencies
+##### 2.1 Install Dependencies
 ```bash
 cd backend
 npm install
